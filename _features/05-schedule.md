@@ -15,7 +15,7 @@ image:
 		</tr>
 		<small>
 			<tr>
-				<td>Ago 11-18</td>
+				<td>Ago 10-17</td>
 				<td>1. Introducción</td>
 				<td>
 					<b>Clase asíncrona</b>: Inteligencia Artificial (<a href= "https://drive.google.com/file/d/16wHaIRn0GCoephK_uLCROw9V6CcvTf37/view?usp=sharing">video</a>)<br>
@@ -29,48 +29,66 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Aug 25</td>
+				<td>Aug 24</td>
 				<td>1.3 Agentes inteligentes<br>
 					2.1 Agentes y Búsquedas<br>
 				</td>
 				<td>
-					<b>Clase asíncrona</b>: Agentes inteligentes (<a href= "https://drive.google.com/file/d/1-Hy_671nfcFNa7F-NV7fC5IbIX4r_Ynm/view?t=1714">video 1</a>) (<a href= "https://drive.google.com/file/d/1IEjSUbyu1wp016eATXuZp60Q0DHZTXRj/view?t=9">video 2</a>)<br>
-					<b>Lectura:</b> [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Chap 2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>)<br>
+					<b>Clase asíncrona</b>: <br>
+					Agentes inteligentes (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter02.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1Fu-2UVV0wruycID5dV79R5YlMi1OyWDU/view?usp=sharing">video</a>)<br> 
+					Agentes y búsquedas (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>)(<a href= "https://drive.google.com/file/d/1BkLBDjYaKWuKtSkam9NXbZOtSKN3_mds/view?usp=sharing">video </a>)<br>
+					<b>Lectura:</b> <br>
+					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Chap 2, Sect 3.1-3.2 <br>
 					<b>Recursos adicionales:</b><br>
-					[CS188-Berkeley] Planning agents (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/watch?v=PUMNeQL1hBc&list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx&index=1">video</a>)<br>
+					[CS188-Berkeley] Planning agents (<a href= "https://www.youtube.com/watch?v=PUMNeQL1hBc&list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx&index=1">video</a>)<br>
 				</td>
 				<td>
-					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a>
+					<a href= "practica2.pdf">Práctica 2</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 7</td>
+				<td>Aug  31</td>
 				<td>2.1 Agentes y Búsquedas<br>
 					2.2 Búsqueda no informada<br>
 				</td>
 				<td>
-					<b>Clase asíncrona</b>: Agentes, búsquedas, BFS, DFS 
-					(<a href= "https://drive.google.com/file/d/1rCG8U_UPXKQsmXBBXgOCGoejfl1c3ifp/view?usp=sharing">video 1</a>)
-					(<a href= "https://drive.google.com/file/d/1zPeyIm2WCcDsbIAWt7VtHaLuBkHwoHj8/view?usp=sharing">video 2</a>) 
-					(<a href= "https://drive.google.com/file/d/1r5G2KcEMwJ1tb1r_IK54IQGGM6dHZJ-L/view?usp=sharing">video 3</a>)<br>
-					<b>Lectura:</b> [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.1-3.4 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)<br>
+					<b>Clase asíncrona</b>: <br>
+					Depth first search
+					(<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>)
+					(<a href= "https://drive.google.com/file/d/1rCG8U_UPXKQsmXBBXgOCGoejfl1c3ifp/view?usp=sharing">video</a>) <br>
+					Breadth first search
+					(<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>)
+					(<a href= "https://drive.google.com/file/d/1zPeyIm2WCcDsbIAWt7VtHaLuBkHwoHj8/view?usp=sharing">video</a>) <br>
+					Iterative deepening search, uniform cost search
+					(<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter03.pdf">slides</a>)
+					(<a href= "https://drive.google.com/file/d/1r5G2KcEMwJ1tb1r_IK54IQGGM6dHZJ-L/view?usp=sharing">video</a>)<br>
+					<b>Lectura:</b> <br>
+					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.3-3.4 <br>
 					<b>Recursos adicionales:</b><br>
-					[CS188-Berkeley] Uninformed search (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx">video</a>)<br>
+					[CS188-Berkeley] Uninformed search (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx">video</a>)<br>
 				</td>
 				<td>
+					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 3</a>
 					<a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Sep 14-21</td>
+				<td>Sep 7-14</td>
 				<td>
 				2.5 Búsqueda informada<br> 
 				</td>
 				<td>
-					<b>Clase asíncrona</b>: A* y heurísticas (<a href= "https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?t=780">video 1</a>)(<a href= "https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?t=15">video 2</a>)<br>
-					<b>Lectura:</b> [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.5-3.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
+					<b>Clase asíncrona</b>: <br>
+					A* 
+					(<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>)
+					(<a href= "https://drive.google.com/file/d/14jFKs9ue6AL5rXBQ89z_Sd_U4lGBQ_an/view?usp=sharing">video</a>) <br>
+					Heurísticas
+					(<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>)
+					(<a href= "https://drive.google.com/file/d/1FdlWs4qT26BQksJeL1qgpL7eZFY3jnON/view?usp=sharing">video</a>)<br>
+					<b>Lectura:</b> <br>
+					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.5-3.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					<b>Recursos adicionales:</b><br>
-					[CS188-Berkeley] A* Search and Heuristics (<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg6Xr_sqowapHJ-WiFsExA5I">video</a>)<br>
+					[CS188-Berkeley] A* Search and Heuristics  (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg6Xr_sqowapHJ-WiFsExA5I">video</a>)<br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>	
 				</td>
 				<td>
