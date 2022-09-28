@@ -127,7 +127,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a><br>
 				</td>
 				<td>
-					<a href= "practica3.pdf">Práctica 5</a>
+					<a href= "practica5.pdf">Práctica 5</a>
 				</td>
 			</tr>
 			<tr>
@@ -142,7 +142,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
 				<td>
-					<a href= "practica4.pdf">Práctica 6</a><br>
+					<a href= "practica6.pdf">Práctica 6</a><br>
 					<a href= "https://colab.research.google.com/drive/1OmNH1IkxMbStsba-VckVslVOoCKmGRLw?usp=sharing">Taller 3</a>
 				</td>
 			</tr>
