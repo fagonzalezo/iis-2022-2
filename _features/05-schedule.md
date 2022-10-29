@@ -193,6 +193,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1C8MOfKYY-Pb9dlNBli8pF8YYpYVCJuhp">Notebook: CNN for image classification in Keras</a><br>
 				</td>
 				<td>
+					<a href= "practica7.pdf">Práctica 7</a><br>
 				</td>
 			</tr>
 			<tr>
