@@ -241,7 +241,7 @@ image:
 					<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
-					<!-- <a href= "proyecto_final.pdf">Proyecto Final </a><br> -->
+					<a href= "proyecto_final.pdf">Proyecto Final </a><br>
 				</td>
 			</tr>
 			<tr>
